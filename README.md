@@ -1,4 +1,4 @@
-# MovieTicketBookingSys
+# Clinic Appointment Booking System
 This repository contains a JavaFX-based Clinic Appointment Booking System designed to streamline the process of scheduling medical appointments. The application provides a user-friendly interface for patients to book appointments with doctors, while also offering robust backend functionality for managing appointments, patients, and payments.
 # Project Structure
 The project follows a well-organized MVC (Model-View-Controller) architecture:
